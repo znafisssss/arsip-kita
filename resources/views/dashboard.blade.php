@@ -55,7 +55,7 @@
                     <div class="flex items-center">
                         <div class="text-5xl mr-4 group-hover:scale-110 transition">⬆️</div>
                         <div>
-                            <h3 class="text-2xl font-bold text-white mb-1">Upload Archive</h3>
+                            <h3 class="text-2xl font-bold text-white mb-1">Upload Archive Ku</h3>
                             <p class="text-blue-100">Add new files to your frozen storage</p>
                         </div>
                     </div>
